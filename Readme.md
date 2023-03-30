@@ -1,6 +1,7 @@
 ## RESHMA REMASAN				
-Mobile: 08975655779
-Email: reshremasan03@gmail.com
+<p style="text-align:right">Mobile: 08975655779</p>
+<p style="text-align:right">Email: reshremasan03@gmail.com</p>
+
 
 # TECHNICAL SUPPORT ENGINEER
 
