@@ -70,6 +70,7 @@ process. My role was to support the customers with setting up the connection, co
 <strong>EDUCATIONAL DEVELOPMENT</strong>
 
 | Bachelor of Technology IT, 2007| Engineering College Kidangoor, Kerala|
+|--------------------------------|--------------------------------------|
 | Class XII, 2003                | Kerala Board                         |
 | Class X, 2001                  | Madhya Pradesh Board                 |
 
