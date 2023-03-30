@@ -78,10 +78,8 @@ Madhya Pradesh Board
 
 PERSONAL INFORMATION			
 
-Date Of Birth					:	03/05/1985
-Address						E 1127 Brigade NorthRidge
-							Yelahanka Bangalore 
-							560064
+|Date Of Birth					|:	03/05/1985      |
+|Address						|E 1127 Brigade NorthRidge Yelahanka Bangalore 560064|
 
 
 
