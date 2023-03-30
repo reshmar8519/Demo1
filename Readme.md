@@ -77,9 +77,9 @@ process. My role was to support the customers with setting up the connection, co
 
 <strong>PERSONAL INFORMATION</strong>			
 
-|Date Of Birth					|:	03/05/1985                                       |
+|Date Of Birth					|:	00/00/0000                                      |
 |-------------------------------|----------------------------------------------------|
-|Address						|E 1127 Brigade NorthRidge Yelahanka Bangalore 560064|
+|Address						|Yelahanka Bangalore 560064|
 
 
 
