@@ -1,17 +1,17 @@
-RESHMA REMASAN				
+## RESHMA REMASAN				
 Mobile: 08975655779
 Email: reshremasan03@gmail.com
 
-TECHNICAL SUPPORT ENGINEER
+# TECHNICAL SUPPORT ENGINEER
 
-PROFILE & STRENGTHS
+<strong>PROFILE & STRENGTHS</strong>
 
 Technical Support Engineer with 5 year of experience managing technical services and support operations both onshore and offshore.
 Dedicated and Resourceful with good interpersonal skills and ability to interact effectively with clients and all levels of management. 
 Excellent communication, problem solving and analytical skills, along with the ability to multitask effectively under challenging conditions.
 
 
-TECHNICAL KNOWLEDGE
+<strong>TECHNICAL KNOWLEDGE</strong>
 
 Operating Systems	   	: Windows
 Programming Languages	: HTML, CSS, XML
@@ -20,9 +20,9 @@ Tools			            : Jabber, WebEx, Footprint, RSA, Cisco VPN, VNC, Salesforce
 Applications			: Parity (Bit9), Safend, Autonomy, Jira, Active Directory, MS 
    office
 
-CERTIFICATIONS	: CCNA
+<strong>CERTIFICATIONS	: CCNA</strong>
 
-PROFESSIONAL EXPERIENCE
+<strong>PROFESSIONAL EXPERIENCE</strong>
 
 Employer 			: Planned Career Break 	 Jan, 2015 – Present
 Role 	       	        	            : Stay at home mom
@@ -66,7 +66,7 @@ process. My role was to support the customers with setting up the connection, co
 
 
 
-EDUCATIONAL DEVELOPMENT
+<strong>EDUCATIONAL DEVELOPMENT</strong>
 
 Bachelor of Technology IT, 2007
 Engineering College Kidangoor, Kerala
@@ -76,7 +76,7 @@ Kerala Board
 Class X, 2001
 Madhya Pradesh Board
 
-PERSONAL INFORMATION			
+<strong>PERSONAL INFORMATION</strong>			
 
 |Date Of Birth					|:	03/05/1985                                       |
 |-------------------------------|----------------------------------------------------|
